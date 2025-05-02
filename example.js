@@ -10,6 +10,4 @@ function calcularRaicesCuadraticas(a, b, c) {
     return {x1, x2};
 }
 
-// Ejemplo de uso
-const raices = calcularRaicesCuadraticas(2, 5, -3);
-console.log('Las raíces son:', raices.x1, 'y', raices.x2);
+gfdhfdhgfhrg
